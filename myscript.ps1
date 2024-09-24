@@ -1,0 +1,3 @@
+$PSVersionTable
+
+$string = "Hello World"
